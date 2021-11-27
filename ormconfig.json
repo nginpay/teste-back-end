@@ -1,11 +1,11 @@
 {
   "type": "mysql",
-  "host": "localhost",
+  "host": "yjo6uubt3u5c16az.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   "port": 3306,
-  "username": "root",
-  "password": "root",
-  "database": "crudteste",
-  "synchronize": true,
+  "username": "ogp6iltkhgeo2ic6",
+  "password": "f7q7c805drlsn8fh",
+  "database": "wierbz4mjomagi7y",
+  "synchronize": false,
   "logging": false,
   "entities": [
      "src/entity/**/*.ts"
